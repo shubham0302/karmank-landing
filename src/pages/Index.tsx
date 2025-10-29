@@ -30,7 +30,7 @@ const Index = () => {
               <img src={logoImage} alt="logo" className="h-16 " />
             </div>
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gradient-cosmic font-playfair">
-              karmAnk
+              KarmAnk
             </h1>
           </div>
           <p className="text-center mt-4 text-sm sm:text-base text-muted-foreground max-w-2xl mx-auto px-4">
@@ -100,7 +100,7 @@ const Index = () => {
         <footer className="py-8 px-4 sm:px-6 lg:px-8 space-y-4">
           <SocialLinks />
           <p className="text-center text-xs sm:text-sm text-muted-foreground">
-            © {new Date().getFullYear()} karmAnk — All rights reserved. Crafted
+            © {new Date().getFullYear()} KarmAnk — All rights reserved. Crafted
             with cosmic energy.
           </p>
         </footer>
