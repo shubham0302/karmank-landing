@@ -62,12 +62,12 @@ const Index = () => {
             </div>
 
             {/* Email Signup */}
-            {/* <div className="space-y-3">
+            <div className="space-y-3">
               <p className="text-center text-sm text-muted-foreground uppercase tracking-widest">
                 Get Early Access
               </p>
               <EmailSignup />
-            </div> */}
+            </div>
 
             {/* Features Preview */}
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-6">
